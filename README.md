@@ -5,6 +5,6 @@ Esse repositório contem códigos utilizando Raspagem de Dados com python, de fo
 Para rodar o código, é necessário:
 beautifulsoup4==4.9.3
 
-Para instalar utilize => pip install beaultifulsoup4
+Para instalar utilize => pip install beautifulsoup4
 
 Obrigada por visitar esse repositório! 🚀 🙂
